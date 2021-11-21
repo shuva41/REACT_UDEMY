@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Expense Tracker
+This project demonstrates a simple expense tracker, which can be used to track monthly expenses. The expenses can also be filtered year-wise.
+This is a beginner level project and thus, only React functional components and 'useSate' hook are implemented here.
